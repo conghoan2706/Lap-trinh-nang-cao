@@ -289,6 +289,11 @@ class HinhTamGiac : Hinh
 
 class ChuongTrinhHinh
 {
+    static void Main()
+    {
+        Chay();
+    }
+
     public static void Chay()
     {
         Hinh[] dsHinh = new Hinh[3];
