@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="QuanLySinhVien.App/QuanLySinhVien.App.csproj" />
+  <Project Path="QuanLySinhVien.Business/QuanLySinhVien.Business.csproj" />
+  <Project Path="QuanLySinhVien.Data/QuanLySinhVien.Data.csproj" />
+</Solution>
